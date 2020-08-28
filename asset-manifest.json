@@ -25,15 +25,15 @@
     "static/js/11.7854591f.chunk.js": "/ftw-lotto-platform/static/js/11.7854591f.chunk.js",
     "static/js/11.7854591f.chunk.js.map": "/ftw-lotto-platform/static/js/11.7854591f.chunk.js.map",
     "main.css": "/ftw-lotto-platform/static/css/main.df31754f.chunk.css",
-    "main.js": "/ftw-lotto-platform/static/js/main.1d0dd8f5.chunk.js",
-    "main.js.map": "/ftw-lotto-platform/static/js/main.1d0dd8f5.chunk.js.map",
+    "main.js": "/ftw-lotto-platform/static/js/main.0b08b854.chunk.js",
+    "main.js.map": "/ftw-lotto-platform/static/js/main.0b08b854.chunk.js.map",
     "runtime-main.js": "/ftw-lotto-platform/static/js/runtime-main.7800ab22.js",
     "runtime-main.js.map": "/ftw-lotto-platform/static/js/runtime-main.7800ab22.js.map",
     "static/css/14.57904731.chunk.css": "/ftw-lotto-platform/static/css/14.57904731.chunk.css",
     "static/js/14.1be31739.chunk.js": "/ftw-lotto-platform/static/js/14.1be31739.chunk.js",
     "static/js/14.1be31739.chunk.js.map": "/ftw-lotto-platform/static/js/14.1be31739.chunk.js.map",
     "index.html": "/ftw-lotto-platform/index.html",
-    "precache-manifest.c3dd526c71c4608df550155b26d082a7.js": "/ftw-lotto-platform/precache-manifest.c3dd526c71c4608df550155b26d082a7.js",
+    "precache-manifest.e31e8babc923c4ae885237119af9d31a.js": "/ftw-lotto-platform/precache-manifest.e31e8babc923c4ae885237119af9d31a.js",
     "service-worker.js": "/ftw-lotto-platform/service-worker.js",
     "static/css/14.57904731.chunk.css.map": "/ftw-lotto-platform/static/css/14.57904731.chunk.css.map",
     "static/css/main.df31754f.chunk.css.map": "/ftw-lotto-platform/static/css/main.df31754f.chunk.css.map",
@@ -44,6 +44,6 @@
     "static/css/14.57904731.chunk.css",
     "static/js/14.1be31739.chunk.js",
     "static/css/main.df31754f.chunk.css",
-    "static/js/main.1d0dd8f5.chunk.js"
+    "static/js/main.0b08b854.chunk.js"
   ]
 }

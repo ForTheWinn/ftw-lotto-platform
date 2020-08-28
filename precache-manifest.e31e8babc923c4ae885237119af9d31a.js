@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b0b76e491fdc363fe47d3ec153266d10",
+    "revision": "678357ff5e8b980fb562033e9b030214",
     "url": "/ftw-lotto-platform/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ftw-lotto-platform/static/css/14.57904731.chunk.css"
   },
   {
-    "revision": "2d9f98a502b943de2dd0",
+    "revision": "0235ec0e2b01f601180d",
     "url": "/ftw-lotto-platform/static/css/main.df31754f.chunk.css"
   },
   {
@@ -68,8 +68,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ftw-lotto-platform/static/js/9.bce16ad3.chunk.js"
   },
   {
-    "revision": "2d9f98a502b943de2dd0",
-    "url": "/ftw-lotto-platform/static/js/main.1d0dd8f5.chunk.js"
+    "revision": "0235ec0e2b01f601180d",
+    "url": "/ftw-lotto-platform/static/js/main.0b08b854.chunk.js"
   },
   {
     "revision": "dc1a8362835c9f1f399b",

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ftw-lotto-platform/precache-manifest.c3dd526c71c4608df550155b26d082a7.js"
+  "/ftw-lotto-platform/precache-manifest.e31e8babc923c4ae885237119af9d31a.js"
 );
 
 self.addEventListener('message', (event) => {
